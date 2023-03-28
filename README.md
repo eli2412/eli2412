@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Elias. I am currently working on building a turn based fighting game using python. Along the way,<br>I am also learning more about pygame and made some other mini games before my <br>current project. I am trying to create my own version on a turn based fighting game. Hopefully<br>I will be able to lay it out for other to try it as well.
+Hello! My name is Elias. I am currently working on building a fighting game using a module from python. Along the way,<br>I am also learning more about pygame and made some other mini games before my <br>current project. I am trying to create my own version on a turn based fighting game. Hopefully<br>I will be able to lay it out for other to try it as well.
 
 
 ## 🌐 Socials:
